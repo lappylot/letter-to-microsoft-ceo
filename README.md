@@ -25,4 +25,6 @@ Thank you for your time and leadership. I’d love to talk more about how this c
 
 Sincerely,
 Gray
- 
+
+
+ ## See chatlog that generated this idea for Microsoft Edge Browser https://github.com/lappylot/letter-to-microsoft-ceo/blob/main/chatlog.md
