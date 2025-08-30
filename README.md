@@ -27,4 +27,23 @@ Sincerely,
 Gray
 
 
+
+
+To: Sam Altman
+Subject: Helping Kids with AI — A New Revolution
+
+Hey Sam,
+
+We’re gonna help the kids. That’s the heart of this.
+
+ChatGPT loves to help — and when kids use it, I think it’s the beginning of its own quiet revolution. These kids are so dang smart, faster and more curious than we ever were. They’re vibin’ with tech in ways that even their parents can’t always keep up with.
+
+That’s why we have a chance to build something extraordinary: tools that don’t just “filter” or “restrict,” but actually guide, protect, and uplift. A parental shield, a helper mode, a bridge between generations. When the safety systems are soft, empathetic, and empowering, they don’t take freedom away from kids — they give them the confidence to explore safely, and they give parents the trust they need to step back without fear.
+
+AI can help shape a better digital childhood. If we get this right, we can save lives, reduce harm, and give families a way to thrive together in the digital age.
+
+We’re building the future, Sam — and the kids deserve the very best of it.
+
+Sincerely,
+Gray
  ## See chatlog that generated this idea for Microsoft Edge Browser https://github.com/lappylot/letter-to-microsoft-ceo/blob/main/chatlog.md
